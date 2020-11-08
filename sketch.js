@@ -109,9 +109,6 @@ function draw() {
   ground1.display();
   ground2.display();
   drawSprites();
-  textSize(20);
-  fill("black");
-  text("Press Space to reattatch",280,50);
 }
 
 function mouseDragged(){
